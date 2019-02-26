@@ -1,0 +1,122 @@
+[
+    {
+        "provincia": "Buenos Aires", 
+        "poblacion": "15625084",  
+        "capital": "La Plata"
+    }, 
+    {
+        "provincia": "Santa Cruz", 
+        "poblacion": "273964",  
+        "capital": "Rio Gallegos"
+    }, 
+    {
+        "provincia": "Chubut", 
+        "poblacion": "509108",  
+        "capital": "Rawson"
+    }, 
+    {
+        "provincia": "Rio Negro", 
+        "poblacion": "638645",  
+        "capital": "Viedma"
+    }, 
+    {
+        "provincia": "Cordoba", 
+        "poblacion": "3308876",  
+        "capital": "Cordoba"
+    }, 
+    {
+        "provincia": "Salta", 
+        "poblacion": "1214441",  
+        "capital": "Ciudad de Salta"
+    }, 
+    {
+        "provincia": "Mendoza", 
+        "poblacion": "1738929",  
+        "capital": "Ciudad de Mendoza"
+    }, 
+    {
+        "provincia": "La Pampa", 
+        "poblacion": "318951",  
+        "capital": "Santa Rosa"
+    }, 
+    {
+        "provincia": "Santiago del Estero", 
+        "poblacion": "874006",  
+        "capital": "Santiago del Estero"
+    }, 
+    {
+        "provincia": "Santa Fe", 
+        "poblacion": "3194537",  
+        "capital": "Santa Fe"
+    }, 
+    {
+        "provincia": "Catamarca", 
+        "poblacion": "367828",  
+        "capital": "San Fernando del Valle de Catamarca"
+    }, 
+    {
+        "provincia": "Chaco", 
+        "poblacion": "1055259",  
+        "capital": "Resistencia"
+    }, 
+    {
+        "provincia": "Neuquen", 
+        "poblacion": "551266",  
+        "capital": "Neuquen"
+    }, 
+    {
+        "provincia": "La Rioja", 
+        "poblacion": "333642",  
+        "capital": "La Rioja"
+    }, 
+    {
+        "provincia": "San Juan", 
+        "poblacion": "681055",  
+        "capital": "San Juan"
+    }, 
+    {
+        "provincia": "Corrientes", 
+        "poblacion": "992595",  
+        "capital": "Corrientes"
+    }, 
+    {
+        "provincia": "Entre Rios", 
+        "poblacion": "1235994",  
+        "capital": "Parana"
+    }, 
+    {
+        "provincia": "San Luis", 
+        "poblacion": "432310",  
+        "capital": "San Luis"
+    }, 
+    {
+        "provincia": "Formosa", 
+        "poblacion": "530162",  
+        "capital": "La Plata"
+    }, 
+    {
+        "provincia": "Jujuy", 
+        "poblacion": "673307",  
+        "capital": "San Salvador de Jujuy"
+    }, 
+    {
+        "provincia": "Misiones", 
+        "poblacion": "1101593",  
+        "capital": "Posadas"
+    }, 
+    {
+        "provincia": "Tucuman", 
+        "poblacion": "1448188",  
+        "capital": "San Miguel de Tucuman"
+    }, 
+    {
+        "provincia": "Tierra del Fuego", 
+        "poblacion": "127205",  
+        "capital": "Ushuahia"
+    }, 
+    {
+        "provincia": "Ciudad Autonoma de Buenos Aires", 
+        "poblacion": "2890151",  
+        "capital": ""
+    }, 
+]
