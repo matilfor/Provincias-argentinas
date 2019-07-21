@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
-  background-image: url("fondo.jpg");
-  background-repeat: repeat;
+  background: rgb(108,210,222);
+  background: linear-gradient(90deg, rgba(108,210,222,1) 0%, rgba(247,242,242,1) 50%, rgba(108,210,222,1) 100%);
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   font-weight: 200;
